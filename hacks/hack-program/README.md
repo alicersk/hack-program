@@ -1,2 +1,9 @@
 # hack-program
-install how_old from the how_old module- call the program and enter a date string in ISO format. Program will return how many days a person born on date entered is today. 
+install how_old from the how_old module
+
+parameters:
+birthday: ISO date in a string 
+enddate: ISO date in a string on which you want the age, in days, from the 'birthday'
+optional parameters:
+--meal : recommends a meal based on numerology
+--random: recommends a random meal
