@@ -1,3 +1,0 @@
-[console_scripts]
-how_old = how_old.__main__:main
-
